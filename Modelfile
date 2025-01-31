@@ -1,0 +1,4 @@
+# Modelfile
+FROM ./DeepSeek-R1-UD-IQ1_S-merged.gguf
+PARAMETER stop 0
+PARAMETER temperature 0.7
